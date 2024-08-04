@@ -1,3 +1,5 @@
 alteração comando pull no git
 
 alteração via github
+
+Para reverter um git add . é só aplicar um git reset
