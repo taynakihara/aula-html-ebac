@@ -1,1 +1,3 @@
-alteração commit github
+alteração comando pull no git
+
+alteração via github
